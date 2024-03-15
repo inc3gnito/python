@@ -4,7 +4,7 @@ if szam < 0:
 if szam == 0:
     print('A szám nulla')
 else:
-    print('A szám nulla vagy pozitív')
+    print('A szám pozitív')
     exit()
     
         
