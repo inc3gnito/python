@@ -1,8 +1,8 @@
-folytatja = True
-while folytatja:
+Amig = True
+while Amig:
     print('Vidd ki a szemetet!')
     valasz = input('Mondjam még egyszer?(i/n) ')
     if valasz == 'n':
-        folytatja = False
+        Amig = False
         print('Program vége!')
     
